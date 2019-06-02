@@ -71,7 +71,7 @@ if __name__ == "__main__":
 
 ## 결과
 
-![Alt text](/User/yesol/Desktop/파이썬기말과제/지도1.jpg]
+![Alt text](/User/yesol/Desktop/파이썬기말과제/to/지도1.jpg]
 
 
 
