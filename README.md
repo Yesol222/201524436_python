@@ -21,7 +21,7 @@ from urllib.parse import quote
 from urllib.request import Request, urlopen
 
 
-key = 'AIzaSyC_vmcG8ZjXFYmD9pDhWr72vT-NNz6gHS8'
+key = ''
 
 
 def getGeoData(address):
